@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN""http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+	<head>
+		<meta http-equip="Content-Type" content="text/html;charset=utf-8">
+		<title>Summer elig. table</title>
+	</head>
+<body>
+	<table>
+		<table>
+		<thead>
+			<th style="border-style: solid;">Students (enrolled full-time*)</th>
+			<th style="border-style: solid;">Interns &amp; Trainees</th>
+			<th style="border-style: solid;">Visiting Scholars</th>
+		</thead>
+
+		<tbody>	
+			<tr>
+				<td style="border-style: solid; border-width: thin;"> Enrolled during the spring 2015</td> 
+				<td rowspan="4"; style="border-style: solid; border-width: thin;"> Working full-time hours during the summer 2015</td> 
+				<td rowspan="4"; style="border-style: solid; border-width: thin;"> With an NYC instituton in the spring, summer, or fall 2015</td> 
+			</tr>
+				<td style="border-style: solid; border-width: thin;">OR full-time in the summer 2015</td>
+			<tr>
+
+
+			</tr>
+			<tr>
+				<td style="border-style: solid; border-width: thin;">OR full-time in the fall 2015 semester</td>
+
+
+			</tr>
+			<tr align="center">
+				<td colspan="3"; style="border-style: solid; border-width: thin;">At least 18 years old when living in I-House</td>
+			</tr>
+
+			<tr align="center">
+				<td colspan="3"; style="border-style: solid; border-width: thin;">From any country, including the United States</td>
+			</tr>
+		<tfoot>
+			<td colspan="3"><em>*Full-time: Students must be registered for full units. Interns and trainees must be working 35-40 hours/week. Part-time enrollment or work does not qualify you to apply to International House.</em></td>
+		</tfoot>	
+
+		</tbody>
+
+<br>
+	</table>
+
+
+<!--Table example>
+
+<table>
+	<thead>
+		<tr>
+			<th>Header 1</th>
+			<th>Header 2</th>
+			<th>Header 3</th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td>Footer 1</td>
+			<td>Footer 2</td>
+			<td>Footer 3</td>
+		</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<td>Cell data 1</td>
+			<td>Cell data 2</td>
+			<td>Cell data 3</td>
+		</tr>
+		<tr>
+			<td>Cell data 4</td>
+			<td>Cell data 5</td>
+			<td>Cell data 6</td>
+		</tr>
+		<tr>
+			<td>Cell data 7</td>
+			<td>Cell data 8</td>
+			<td>Cell data 9</td>
+		</tr>
+	</tbody>
+</table>
+
+<!-->
+
+</body>
